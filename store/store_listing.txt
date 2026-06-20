@@ -1,0 +1,41 @@
+═══════════════════════════════════════════
+HOSHI SWEEP — PLAY STORE LISTING
+com.xquisite.hoshisweep
+═══════════════════════════════════════════
+
+APP TITLE (max 50 chars):
+Hoshi Sweep: Hitori Logic
+
+SHORT DESCRIPTION (max 80 chars):
+Shade duplicate numbers so each row and column is unique! 150 levels.
+
+FULL DESCRIPTION:
+✦ ONE OF EACH PER LINE ✦
+
+Sweep away the duplicates. Shade cells so that no number repeats in any row or column among the cells left unshaded. But there are two catches: shaded cells may never touch side by side, and every unshaded cell must stay connected in one group.
+
+⬛ HOW TO PLAY
+• Tap a cell: shade → circle → clear
+• No number may repeat in a row or column among unshaded cells
+• Shaded cells never touch orthogonally
+• All unshaded cells must stay connected
+• Use circles to mark cells you're keeping
+
+✨ FEATURES
+• 150 levels: 5×5, 7×7 and 9×9 grids
+• Every puzzle is built from a real shaded layout — always solvable
+• Touching shaded cells flash a warning
+• Duplicate numbers highlight as you play
+• Warm parchment-and-ink visuals and a calm soundtrack
+• Haptic feedback
+• 100% offline, no ads, no purchases, zero data collection
+
+🧠 THE HITORI CLASSIC
+Also known as Hitori or Hitori ni shite kure — a shade-the-duplicates logic puzzle from Nikoli. Simple to grasp, satisfying to sweep clean.
+
+Sweep the duplicates. Clear the grid. ✦
+
+CATEGORY: Games > Puzzle
+CONTENT RATING: Everyone
+PRICE: Free
+TAGS: hitori, logic, puzzle, shade, unique, numbers, brain, deduction, grid, nikoli
